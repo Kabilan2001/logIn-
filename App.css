@@ -1,0 +1,35 @@
+body{
+  background-image: repeating-radial-gradient(rgb(228, 138, 138),rgb(200, 200, 79),rgb(109, 200, 109),rgb(125, 125, 205));
+}
+.ls{
+  text-align: center;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  margin-left: '.5rem';
+}
+#W
+{ padding:2%;
+  text-align: center;
+  margin-top: 200px;
+  height: 400px;
+  width: 400px;
+  transform: translate(500px,10px);
+  background-color:rgb(199, 146, 212);
+  border-radius: 20px 60px;
+}
+#g
+{
+  border-radius: 20px 60px;
+  text-align: center;
+  margin-top: 200px;
+  height: 700px;
+  width: 400px;
+  transform: translate(500px,10px);
+  background-color:rgb(178, 96, 188);
+}
+#h
+{
+  transform: translate(10px,0px);
+}
+
